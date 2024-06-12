@@ -1,0 +1,53 @@
+email: bearshuford@yahoo.com
+tel: +1 706 589 6576
+linkedin: bearshuford
+objective: Seeking a role where I can apply and enhance my skills while contributing to impactful projects.
+skills:
+  - [Languages, [TypeScript, JavaScript, C#, HTML, CSS, SASS]]
+  - [Frameworks & Libraries, [Vue.js, React.js, ASP.NET MVC, Cypress, Mocha, Enzyme]]
+  - [Tools, [Git, Visual Studio Code, Figma, Microsoft Word, Microsoft Excel]]
+  - [Other Skills, [REST API integration, Automated Testing]]
+experience:
+  - title: Frontend Engineer
+    company: Perch
+    location: Boston MA
+    dates: Sep 2020 to Feb 2023
+    duration: 2 years 6 months
+    responsibilities:
+      - Architected and developed UI for internal tools primarily using TypeScript, Vue.js, and Vuetify, focusing on scalability and user efficiency.
+      - Spearheaded the integration of automated testing frameworks like Cypress with QA teams to enhance application reliability.
+      - Contributed to backend efforts using Python and Django, ensuring seamless integration with front-end systems.
+  - title: Frontend Engineer
+    company: TaxSlayer
+    location: Augusta GA
+    dates: May 2018 to Sep 2020
+    duration: 2 years 4 months
+    responsibilities:
+      - Developed and maintained user interfaces using Vue.js and React, ensuring high responsiveness and accessibility standards.
+      - Collaborated closely with UX teams to refine application interfaces and led the strategic redesign of internal support applications to improve user engagement.
+      - Assisted with backend development using ASP.NET MVC  
+  - title: Frontend Developer
+    company: Concora
+    location: Atlanta GA
+    dates: Jun 2017 to Dec 2017
+    duration: 6 months
+    responsibilities:
+      - Implemented advanced React and Redux components for dynamic web applications, focusing on optimal user interaction and state management.
+      - Enhanced testing practices by increasing front-end test coverage with tools like Enzyme and Mocha, ensuring robustness and reliability.
+  - title: Engineering Assistant
+    company: Carolina CoverTech
+    location: Augusta GA
+    dates: Summer 2013, 2014, 2015
+    duration: 9 months
+    responsibilities:
+      - Wrote AutoCAD scripts to automate repetitive processes.
+      - created and managed spreadsheets for custom order material calculations, streamlining operations.
+education:
+  - degree: Frontend Engineering
+    institution: The Iron Yard
+    dates: Aug 2016 to Dec 2016
+    description: Coursework began with HTML/CSS and vanilla JavaScript, progressed to using Handlebars.js for templating, Backbone.js for MVC architectures, and culminated with a primary focus on React.js.
+  - degree: Computer Science
+    institution: Clemson University
+    dates: Fall 2011 to Spring 2015
+    details: incomplete
